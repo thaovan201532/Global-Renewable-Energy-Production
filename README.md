@@ -38,6 +38,11 @@ Third is Solar Energy, with 19.22%
 
 Along with data on countries using the most types of energy, to the least, arranged in order.
 
+In 2009, the total amount of Total Renewable Energy reached its highest level between 2000 and 2023.
+
+![image](https://github.com/thaovan201532/Global-Renewable-Energy-Production/assets/175054097/f0987913-b2c3-4441-93a0-446eb527968d)
+
+
 ![image](https://github.com/thaovan201532/Global-Renewable-Energy-Production/assets/175054097/51d59c8a-73ad-4031-9520-99d89f9a7c97)
 
 
