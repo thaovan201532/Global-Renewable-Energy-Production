@@ -1,8 +1,7 @@
 
 # Global Renewable Energy Production
 
-
-Dashboard information
+# Dataset Information
 
 This dataset contains annual data on renewable energy production from various countries, spanning from 2000 to 2023. 
 
@@ -26,9 +25,11 @@ OtherRenewableEnergy: Annual energy production from other renewable sources (e.g
 
 TotalRenewableEnergy: Total annual renewable energy production in gigawatt-hours (GWh).
 
-This dashboard helps make strategic decisions about types of energy through data processed by calculation formulas.
+# Dashboard Information
 
-Looking at the table, we can see how energy sources are used across countries and years.
+This dashboard helps make strategic decisions about types of energy through data processed by calculation formulas, with below insights:
+
+Looking at the charts, we can see how energy sources are used across countries and years.
 
 Hydrogen Energy is the most used, with 39.16% 
 
